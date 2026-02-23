@@ -1,4 +1,4 @@
-# Credit-Score-Prediction_ 
+.# Credit-Score-Prediction_ 
 
 ## Overview
 This project builds a **Credit Score Prediction Model** using machine learning techniques. The dataset consists of financial attributes such as **Age, Income, Loan Amount, Credit History, Marital Status**, and predicts whether a **Loan is Approved**.
